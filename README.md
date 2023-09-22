@@ -36,28 +36,51 @@ E por fim, apertando-se o botão “Beber água” na segunda tela, o usuário p
 ➝ Versionamento:
 
 0.1 ➝ Criei a primeira MainActivity(Splash).
+
 0.2 ➝ Criei a MainActivity2. Coloquei na xml2 um TextView e quatro Buttons no ScrollView com LinearLayout.
+
 0.3 ➝ Criei a MainActivity3. Coloquei o código da Calculadora de IMC. Adicionei mais um Button, não contando com o Button que já veio na calculadora.
+
 0.3.1 ➝ Alterei texto na MainActivity3. Linkei o Button 1 da MainActivity2 à MainActivity3.
+
 0.4.0 ➝ Criei a MainActivity4. Coloquei na xml4 dois TextView, sendo um para link da web e quatro Buttons.
+
 0.4.1 ➝ Alteração no código: Linkei o Button 2 da MainActivity3 à MainActivity4.
+
 0.4.2 ➝ Fix Bug na xml4. Precisei adicionar um ScrollView com um LinearLayout.
+
 0.5.0 ➝ Criei a MainActivity5. Coloquei na xml5 um VideoView.
+
 0.6.0 ➝ Criei a MainActivity6. Coloquei na xml6 um VideoView.
+
 0.7.0 ➝ Criei a MainActivity7. Coloquei na xml7 um VideoView.
+
 0.8.0 ➝ Criei a MainActivity8. Coloquei na xml8 um VideoView.
+
 0.8.1 ➝ Alteração no código: Linkei os Buttons da MainActivity4 às suas respectivas activitys (activitys 5, 6, 7 e 8).
+
 0.9.0 ➝ Criei a MainActivity9. Coloquei na xml9 dez TextView, um Button e o ScrollView com LinearLayout.
+
 0.9.1 ➝ Alteração no código: Linkei o Button 2 da MainActivity2 à MainActivity9.
+
 0.10.0 ➝ Criei a MainActivity10. Coloquei na xml10 onze TextView, sendo dez links para web dentro do ScrollView com LinearLayout.
+
 0.10.1 ➝ Alteração no código: Linkei o Button da activity9 à MainActivity10.
+
 0.10.2 ➝ Fix Bug na MainActivity10. Correção nas variáveis.
+
 0.11.0 ➝ Criei a MainActivity11 e a MainActivity12 para utilizar o RecyclerView listando os exercícios.
+
 0.12.0 ➝ Adicionei uma “Kotlin Class/File” com nome “Exercise”.
+
 0.12.1 ➝ Alteração no código: Linkei o Button 3 da MainActivity2 à MainActivity11.
+
 0.12.2 ➝ Fix Bug na xml12. Precisei adicionar a cor ao TextView “exerciseLinkTextView”.
+
 0.13.0 ➝ Criei a MainActivity13. Coloquei na xml13 um Button e um TextView.
+
 0.13.1 ➝ Alteração no código: Adicionei a função “scheduleWaterReminder” na MainActivity13 e linkei o Button 4 da MainActivity2 à MainActivity13.
+
 0.13.2 ➝ Fix Bug no AndroidManifest ao alterar o ícone do aplicativo.
 
 
