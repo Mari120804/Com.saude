@@ -1,5 +1,6 @@
 # Com.saude
 (Para acessar o código, por gentileza navegar na ramificação "master".)
+
 Aplicativo em Kotlin que calcula IMC e oferece receitas saudáveis no YouTube; mostra o passo a passo para uma meditação eficaz, indicando mantras para escutar durante a meditação; lista exercícios físicos para sair do sedentarismo (linkando o vídeo de cada exercício no YouTube) e *notifica para beber água (*funcionalidade ainda em aperfeiçoamento para uma nova versão).
 
 ➝ Exposição completa do aplicativo:
