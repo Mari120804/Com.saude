@@ -1,25 +1,6 @@
 # Com.saude
 Aplicativo em Kotlin que calcula IMC e oferece receitas saudáveis no YouTube; mostra o passo a passo para uma meditação eficaz, indicando mantras para escutar durante a meditação; lista exercícios físicos para sair do sedentarismo (linkando o vídeo de cada exercício no YouTube) e *notifica para beber água (*funcionalidade ainda em aperfeiçoamento para uma nova versão).
 
-↠ Documentação do aplicativo: Com.saude
-
-➝ Introdução:
-
-Este é um modelo básico de documentação do aplicativo Com.saude .
-Considero o Com.saude um aplicativo para quem quer dar um passo à frente na vida e transformar-se com hábitos saudáveis, mudar sua autoimagem e deste modo, adquirir vitalidade e resistência para enfrentar o que a vida trouxer, ao implementar as funcionalidades do app em seu cotidiano.
-Considerações:
-•	Ter uma documentação básica é melhor do que não ter nenhuma;
-•	Este é o primeiro aplicativo feito pela desenvolvedora;
-•	Quaisquer dúvidas, esclarecimentos e/ou feedback contatar ao e-mail: marianalibaniobarbosa@gmail.com
-
-➝ Dados do app:
-
-•	Linguagem: Kotlin
-•	
-•	Nível mínimo de API: API 26 (Android 8.0; “Oreo”)
-•	Desenvolvedora: Mariana Libânio Barbosa
-•	Idioma: Português
-
 ➝ Exposição completa do aplicativo:
 
 O aplicativo apresenta em princípio uma Splash Screen que contém um ícone relacionado ao tema do app com o próprio nome do app. 
