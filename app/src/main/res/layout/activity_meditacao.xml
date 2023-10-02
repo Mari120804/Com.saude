@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Meditação">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="274dp"
+            android:layout_height="94dp"
+            android:gravity="center"
+            android:text="Passo a passo para uma meditação eficaz"
+            android:textSize="16dp"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="339dp"
+            android:layout_height="80dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="1. Escolha um local tranquilo: Encontre um lugar calmo e livre de distrações. Pode ser um quarto silencioso, um canto agradável no jardim ou até mesmo um tapete de yoga."/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="339dp"
+            android:layout_height="93dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="2. Postura confortável: Sente-se ou deite-se de maneira confortável. O objetivo é ficar relaxado, mas alerta. Muitas pessoas optam por sentar-se em posição de lótus, mas você pode usar uma cadeira se preferir." />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="339dp"
+            android:layout_height="94dp"
+            android:layout_marginTop="10dp"
+            android:gravity="left"
+            android:text="3. Respire profundamente: Comece a focar na sua respiração. Inspire profundamente pelo nariz, segure por um segundo e expire lentamente pela boca. Repita esse padrão de respiração algumas vezes para relaxar." />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="339dp"
+            android:layout_height="80dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="4. Atenção plena na respiração: Concentre-se na sensação da sua respiração. Sinta o ar entrando e saindo do seu corpo. Se sua mente começar a divagar, traga-a de volta à respiração."/>
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="339dp"
+            android:layout_height="80dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="5. Scan corporal: Percorra o seu corpo mentalmente, da cabeça aos pés, observando qualquer tensão ou desconforto. Tente relaxar essas áreas conscientemente."/>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="339dp"
+            android:layout_height="80dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="6. Mantenha o foco: Se sua mente divagar, não se preocupe. Isso é normal. Apenas reconheça os pensamentos, deixe-os passar e volte a concentrar-se na respiração."/>
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="339dp"
+            android:layout_height="80dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="7. Escolha um ponto de foco: Você pode escolher um objeto visual, como uma vela, ou um mantra (uma palavra ou frase que você repete mentalmente) como ponto de foco." />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="339dp"
+            android:layout_height="80dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="8. Tempo de meditação: Defina um tempo para a sua meditação. Comece com 5-10 minutos e, gradualmente, aumente conforme se sinta mais confortável."/>
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="339dp"
+            android:layout_height="80dp"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="9. Finalize com gratidão: Quando terminar, abra os olhos suavemente, estique-se e reflita sobre o momento. Sinta gratidão por ter tirado um tempo para cuidar de si mesmo."/>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="202dp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="50dp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Indicação de mantras pela desenvolvedora"/>
+
+    </LinearLayout>
+
+
+</ScrollView>

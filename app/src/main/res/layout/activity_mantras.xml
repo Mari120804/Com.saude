@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mantras">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="289dp"
+            android:layout_height="120dp"
+            android:gravity="center"
+            android:text="Clique no nome para ser direcionado(a) ao mantra."
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/linkTextView2"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="1. Purificação e energização espiritual."
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/linkTextView3"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="2. Vajra Guru mantra."
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/linkTextView4"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="3. Om Gam Ganapataye Namaha."
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/linkTextView5"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="4. Mantra do agradecimento."
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/linkTextView6"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="5. Poder de cura e estabilidade emocional."
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/linkTextView7"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="6. Ancient Ase mantra."
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/linkTextView8"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="7. Paz interior."
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/linkTextView9"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="8. Remover energias negativas."
+            android:textSize="15dp"/>
+
+        <TextView
+            android:id="@+id/linkTextView10"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="9. Spiritual detox."
+            android:textSize="15dp"/>
+
+        <TextView
+            android:id="@+id/linkTextView11"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:autoLink="web"
+            android:text="10. Acalmar a ansiedade e o estresse."
+            android:textSize="15dp"/>
+
+    </LinearLayout>
+
+</ScrollView>
